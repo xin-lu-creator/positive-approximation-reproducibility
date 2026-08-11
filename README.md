@@ -102,6 +102,6 @@ The verification code is released under the MIT License. See `LICENSE`.
 
 ## Citation
 
-The version-specific Zenodo DOI will be added after Zenodo archives the GitHub release. Until then, cite the release tag `v1.0.1-submission` together with the associated manuscript.
+The submission release is permanently archived in Zenodo under the version-specific DOI [10.5281/zenodo.21883483](https://doi.org/10.5281/zenodo.21883483). Cite this DOI together with the fixed release tag `v1.0.1-submission`.
 
 This repository is the frozen initial-submission reproducibility package. The scientific verification logic and frozen certificate data correspond to the submitted manuscript version.
