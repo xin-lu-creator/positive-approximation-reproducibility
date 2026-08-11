@@ -1,0 +1,8 @@
+Release preparation date: 2026-08-10
+Python requirement: >=3.10
+NumPy requirement: >=1.26
+SymPy requirement: >=1.12
+External dataset: none
+Randomness: none
+GPU: not required
+Network: not required for verification

@@ -1,0 +1,3 @@
+# Submission-version theorem verification dependencies.
+numpy>=1.26
+sympy>=1.12

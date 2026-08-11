@@ -1,0 +1,99 @@
+{
+  "project": {
+    "short_name": "PositiveApproximation",
+    "paper_title": "Positive Approximation under Subspace Decoupling: From Frobenius to Spectral Norm",
+    "study_type": "pure_theoretical_matrix_analysis"
+  },
+  "schatten_counterexample": {
+    "a": 1.0,
+    "c": 2.0,
+    "b": 5.0,
+    "interior_p_values": [
+      1.25,
+      1.5,
+      3.0,
+      4.0
+    ],
+    "perturbation_epsilon": 1e-05
+  },
+  "exact_counterexample": {
+    "A_numerator": [
+      [
+        -4,
+        0,
+        1,
+        -2
+      ],
+      [
+        0,
+        2,
+        -1,
+        2
+      ],
+      [
+        1,
+        -1,
+        3,
+        1
+      ],
+      [
+        -2,
+        2,
+        1,
+        4
+      ]
+    ],
+    "A_denominator": 2,
+    "V_numerator": [
+      [
+        0,
+        -29
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        0,
+        -8
+      ]
+    ],
+    "V_denominator": 32,
+    "c_rationals": [
+      [
+        -63,
+        64
+      ],
+      [
+        -3,
+        32
+      ]
+    ],
+    "w4_rational": [
+      -1,
+      4
+    ],
+    "expected_dual_lower": [
+      2833673,
+      1196694
+    ],
+    "rank11_upper": [
+      2421,
+      1024
+    ],
+    "m_bound": [
+      1061,
+      512
+    ],
+    "interval_count": 16,
+    "dyadic_denominator": 1024,
+    "expected_phi_u_sq_bound": [
+      23390153,
+      4194304
+    ]
+  }
+}

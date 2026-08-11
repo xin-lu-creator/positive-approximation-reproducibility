@@ -1,0 +1,7 @@
+name: positive_approximation_repro
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy>=1.26
+  - sympy>=1.12

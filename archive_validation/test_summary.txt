@@ -1,0 +1,6 @@
+Initial release validation: PASS
+Version: 1.0.1-submission
+run_demo.py: PASS
+run_all.py: PASS
+Frozen certificate SHA-256: 56d1162d1e943ea7bcba5ecef0240d959d8364ba60510f3779265ea44572f936
+Public metadata audit: PASS

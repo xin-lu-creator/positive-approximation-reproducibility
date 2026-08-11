@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the archived software record and the associated manuscript."
+title: "Positive Approximation under Subspace Decoupling: From Frobenius to Spectral Norm: reproducibility package"
+type: software
+version: "1.0.1-submission"
+date-released: 2026-08-11
+license: MIT
+repository-code: "https://github.com/xin-lu-creator/positive-approximation-reproducibility"
+authors:
+  - family-names: Lu
+    given-names: Xin
+    affiliation: Iwate University
+abstract: >-
+  Deterministic verification code and exact-rational certificate files for the
+  manuscript "Positive Approximation under Subspace Decoupling: From Frobenius to Spectral Norm". The package verifies the explicit Schatten
+  counterexample constructions and the certified rational 4 x 4 obstruction
+  for rank-(1,1) spectral-norm certificates. No external dataset or randomness
+  is required.
+keywords:
+  - positive semidefinite approximation
+  - spectral norm
+  - Schatten norm
+  - matrix nearness
+  - semidefinite programming
+  - exact rational verification
